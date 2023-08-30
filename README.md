@@ -12,9 +12,11 @@
 - OpenCore 0.9.0 & 0.9.3
 
  # Progress:
- - all things worked but wifi was not. So as airdrop and things depents on it will not be ok.
- - monitor refreshrate is 165hz, have no clues to trun that on.
+ - all things worked so as airdrop.
+ - Fixed wifi slot dsdt issues so wifi is finally working (took me 2 months to figure it out) 
+
+ - monitor enabled hidpi and 165hz with hidpi.sh
  # Knowing issues:
-  - wireless wifi was impossiable to be driven till now. I've tested ax200 ax210 &bcm94360(should be native in os13 but only bluetooth working).
-  - I have seached the internet, while some had the same issue that wifi work in intel based hackintosh thongh not functioning in ryzentosh and none of them solved directly.
-  
+  - operating sys encounter black screen sometimes when booting up
+  - system sometimes stuck and must force to reboot and threw panic.(predicted to be nootred issues while no hardware failure in panelty test)
+  - power bottom can not function
