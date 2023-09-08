@@ -17,6 +17,7 @@
 
  - monitor enabled hidpi and 165hz with hidpi.sh
  # Knowing issues:
+  - can't use pbo for amd cpu as it can crash down the os. This is a mess for my work.
   - operating sys encounter black screen sometimes when booting up
   - system sometimes stuck and must force to reboot and threw panic.(predicted to be nootred issues while no hardware failure in panelty test)
   - power bottom can not function
