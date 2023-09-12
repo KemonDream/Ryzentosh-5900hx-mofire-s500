@@ -5,9 +5,9 @@
 - cpu:5900hx-es
 - gpu:vega8-es
 - ethernet:realtek
-- wireless:ax210 200 bcm94360(for test)
+- wireless:wifi slot- bcm94360ng for airplay ax210 200 for test
 - motherboard:demo board
-- others:two m.2 slot. 2xusb3.0 4xusb2.0 1xdp 1xhdmi; monitor using dp direct conneted b160qan02.q \
+- others:two m.2 slot. 2xusb3.0 4xusb2.0 1xDP 1xHDMI; Monitor using dp-direct-connetted b160qan02.q \
 **OS**:
 - MacOS Ventura(tested 13.3-13.5.1)
 - OpenCore 0.9.0 & 0.9.3
