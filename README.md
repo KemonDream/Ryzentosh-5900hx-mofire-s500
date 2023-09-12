@@ -9,7 +9,7 @@
 - motherboard:demo board
 - others:two m.2 slot. 2xusb3.0 4xusb2.0 1xdp 1xhdmi; monitor using dp direct conneted b160qan02.q \
 **OS**:
-- MacOS13.4.1 Ventura
+- MacOS Ventura(tested 13.3-13.5.1)
 - OpenCore 0.9.0 & 0.9.3
 
  # Progress:
