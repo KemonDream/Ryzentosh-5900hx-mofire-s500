@@ -32,5 +32,5 @@
   - power bottom can not function
     no fix for now
  # Update of Knowing Issues
- - Audio DAW may stop playback or have cracle sound as there are some wierd trap of the cpu, even the load of the audio chain is pretty simple
+ - Audio DAW may stop playback or have cracle sound as there are some wierd trap of the cpu, even the load of the audio chain is pretty low
    Fix: after testing for a day, the issue is the wifi. Maybe the wifi search and reconnect action causes lock of the cpu. So the fix for now is to turn the wifi down in the system setting(you shell see a strip through the wifi logo). And if you're not a audio engerneer like me, you can ignore this fix. Maybe there are other ways,but just be sure there're noting wrong with your work flow:)
